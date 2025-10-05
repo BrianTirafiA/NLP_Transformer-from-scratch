@@ -1,6 +1,8 @@
 # Implementasi Transformer dari Nol dengan NumPy
 Proyek ini berisi implementasi forward pass dari arsitektur decoder-only Transformer (gaya GPT) yang dibangun sepenuhnya dari nol menggunakan NumPy. Tujuannya adalah untuk memahami mekanisme internal Transformer tanpa bergantung pada library deep learning seperti PyTorch atau TensorFlow.
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BrianTirafiA/NLP_Transformer-from-scratch/blob/main/transformer_from_scratch.ipynb)
+
 ## Fitur Utama
 - Arsitektur Modular: Setiap komponen (Embedding, Attention, FFN, dll.) diimplementasikan dalam kelas atau fungsi terpisah untuk kejelasan dan kemudahan pengujian.
 
