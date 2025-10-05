@@ -15,16 +15,8 @@ Proyek ini berisi implementasi forward pass dari arsitektur decoder-only Transfo
 ## Struktur Proyek
 transformer_from_scratch.ipynb: Notebook Jupyter utama yang berisi seluruh implementasi kode, penjelasan langkah-demi-langkah, dan blok pengujian model.
 
-## Prasyarat
-Pastikan Anda memiliki Python 3.6 atau versi lebih baru terinstal di sistem Anda.
-
-## Instalasi
-Instal semua library yang dibutuhkan dengan satu perintah menggunakan pip:
-
-`pip install numpy matplotlib seaborn`
-
 ## Cara Menjalankan
-- Buka Notebook: Buka file transformer_from_scratch.ipynb menggunakan lingkungan Jupyter (misalnya, Jupyter Notebook, JupyterLab, atau Google Colaboratory).
+- Buka Notebook: Buka file transformer_from_scratch.ipynb menggunakan lingkungan google collab
 
 - Jalankan Semua Sel: Untuk menjalankan keseluruhan alur, Anda bisa memilih "Run All" dari menu notebook. Alternatifnya, jalankan setiap sel secara berurutan dari atas ke bawah.
 
